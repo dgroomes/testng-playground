@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
 
-class TheTest {
+public class TheTest {
 
   @Test
   void doit() {
