@@ -17,3 +17,14 @@ The sub-projects include:
 A basic example of TestNG using Gradle.
 
 See the README in [basic/](basic/).
+
+
+## Wish List
+
+General clean-ups, changes and things I wish to implement for this project:
+
+* [ ] Create a project that uses TestNG in a standalone way, ejecting from Gradle. This should be in a similar style as my
+  [`standalone-gradle/` subproject in my `junit-playground` repository](https://github.com/dgroomes/junit-playground/tree/main/standalone-gradle).
+  This is important because I think the ecosystem support for TestNG is generally poor and I need to be able to escape
+  from these ecosystem tools like Gradle and Intellij because they don't work well with TestNG. I want to run TestNG
+  "close to the metal" so to speak.
