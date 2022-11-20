@@ -34,3 +34,4 @@ General clean-ups, changes and things I wish to implement for this project:
   This is important because I think the ecosystem support for TestNG is generally poor and I need to be able to escape
   from these ecosystem tools like Gradle and Intellij because they don't work well with TestNG. I want to run TestNG
   "close to the metal" so to speak.
+* [x] SKIPPED ([This StackOverflow answer](https://stackoverflow.com/a/30872987) solved the problem I had that motivated this wish list item) Implement a `@Factory` example

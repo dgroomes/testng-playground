@@ -9,7 +9,9 @@ Follow the below instructions to compile the source code and run the TestNG test
 
 1. Use Java 17  
 2. Compile the code and run the tests
-   * `./gradlew test`
+   * ```shell
+     ./gradlew test
+     ```
    * Gradle makes it as easy as that! The results of the test suite will be printed to the terminal.
 
 
